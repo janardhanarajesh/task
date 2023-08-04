@@ -1,0 +1,189 @@
+#pd{
+height:900px;
+width:1260px;
+background-color:whitesmoke;
+position:relative;
+
+}
+#nav{
+	height:50px;
+	width:1260px;
+	background-color: white;
+	position:fixed;
+	margin-top:15px;
+}
+#pre{
+	height:40px;
+	width:80px;
+	background-color:lightgreen;
+	margin-top:4px;
+	float:left;
+	margin-left:460px;
+	margin-right:10px;
+	border-radius:8px;
+
+padding-top:8px;
+
+}
+#htm{
+	height:40px;
+	width:80px;
+	background-color:lightblue;
+	margin-top:4px;
+	float:left;
+	margin-right:10px;
+	border-radius:8px;
+padding-top:8px;
+
+
+}
+#css{
+	height:40px;
+	width:80px;
+	background-color:skyblue;
+	margin-top:4px;
+	float:left;
+	margin-right:10px;
+
+	border-radius:8px;
+padding-top:8px;
+
+}
+#down{
+	height:40px;
+	width:80px;
+	background-color:lightblue;
+	margin-top:4px;
+	float:left;
+	margin-right:10px;
+	border-radius:8px;
+padding-top:8px;
+
+
+}
+#acti{
+	height:40px;
+	width:80px;
+	background-color:red;
+	margin-top:4px;
+	float:left;
+	margin-right:10px;
+padding-top:8px;
+border-radius:8px;
+
+}
+b{
+	color:white;
+}
+*{
+	box-sizing:border-box;
+	margin:0;
+}
+#ld{
+	height:700px;
+	width:280px;
+	background-color:white;
+	position:absolute;
+	left:80px;
+	top:88px;
+	border-radius:10px;
+
+}
+#rd1{
+	height:340px;
+	width:680px;
+	background-color:white;
+	position:absolute;
+	left:400px;
+	top:88px;
+	border-radius:10px;
+	position:relative;
+
+}
+#rd2{
+	height:340px;
+	width:680px;
+
+	background-color:white;
+	position:absolute;
+	left:400px;
+	top:450px;
+	border-radius:10px;
+}
+#i1{
+	padding-top:80px;
+	padding-left:105px;
+
+	font-size:70px;
+}
+#h{
+	padding-top:30px;
+}
+#b1{
+	background-color:blue;
+	height:20px;
+	width:50px;
+	border:2px solid black;
+	border-radius:3px;
+	float:left;
+	margin-left:100px;
+
+}
+#b2{
+	background-color:green;
+	height:20px;
+	width:50px;
+	border:2px solid black;
+	border-radius:3px;
+	float:left;
+	margin-left:3px;
+}
+a{
+		text-decoration: none;
+		font-size:13px;
+
+}
+#i2{
+	font-size:20px;
+margin-right:20px;
+margin-left:45px;
+}
+#i3{
+	font-size:20px;
+margin-right:20px;
+margin-left:30px;
+	margin-top:20px;
+
+
+}
+#s1{
+	margin-left:40px;
+	margin-top:20px;
+}
+#s2{
+	margin-left:40px;
+	margin-top:20px;
+}
+#i4{
+	font-size:20px;
+margin-right:20px;
+margin-left:30px;
+	margin-top:20px;
+
+
+}
+#in1{
+	margin-top:60px;
+	margin-left:80px;
+
+}
+label{
+margin-left:30px;
+margin-right:90px;
+font-size:20px;
+}
+#in2{
+	margin-top:30px;
+	margin-left:90px;
+
+}
